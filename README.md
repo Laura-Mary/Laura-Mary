@@ -17,8 +17,13 @@
 
 <p align="left">
 🌱 What I am doing: Building my knowledge of C++ and successfully completing my programming assignments. Building a database for a Music shop on Oracle Aoex and developing my knowledge of SQL to create queries and extract useful information from the data. Writing up a research proposal for a tool that will utilise machine learning to suggest personalised clothing suggestions based on weather variables, personal preferences and medical conditions. <br>
-💞️ Special interests: Greek Mythology, India, Fitness + Wellbeing, French + Italian cooking, Wine, Star Trek + Doctor Who <br>
-📫 Recent projects: Working with a group to create a digital story about the impact of self-driving cars on our environment. A report about early encryption techniques and how they have evolved into the modern techniques that are used today.</p>
+	
+💞️ Special interests: Greek Mythology, Fitness + Wellbeing, Star Trek + Doctor Who, Computer science (obviously). <br>
+	
+📫 Recent projects: Working with a group to create a digital story about the impact of self-driving cars on our environment. A report about early encryption techniques and how they have evolved into the modern techniques that are used today. <br>
+
+🎯 Future goals: I would like to develop my skills for a career in biomedical and healthcare settings. I would like to specialise in AI as I believe it is key to improving efficiency and care in our healthcare system.  <br>
+</p>
 
 
 
