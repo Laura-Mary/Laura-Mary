@@ -1,6 +1,10 @@
 <h1>
 	👋 Hi, I’m @Laura-Mary
 </h1>
+
+<img src="https://giphy.com/embed/L3ut1TkDIqduYKM21D" alt=Picard>
+
+
 	
 
 - 👀 About me: I am currently studying for a Computer Science degree at the Univesity of South Wales.
