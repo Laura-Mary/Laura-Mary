@@ -20,7 +20,7 @@
 	
 💞️ Special interests: Greek Mythology, Fitness + Wellbeing, Star Trek + Doctor Who, Computer science (obviously). <br>
 	
-📫 Recent projects: Working with a group to create a digital story about the impact of self-driving cars on our environment. A report about early encryption techniques and how they have evolved into the modern techniques that are used today. <br>
+📫 Recent projects: Working with a group to create a digital story about the impact of self-driving cars on our environment. A report about early encryption techniques and how they have evolved into the modern techniques that are used today. Created an informational website for a canal centre using Adobe Dreamweaver and designed my own logo for the website using Adobe Illustrator.<br>
 
 🎯 Future goals: I would like to develop my skills for a career in biomedical and healthcare settings. I would like to specialise in AI as I believe it is key to improving efficiency and care in our healthcare system.  <br>
 </p>
