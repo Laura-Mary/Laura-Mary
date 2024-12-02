@@ -1,10 +1,7 @@
-	<div id="header" align="center>
-		<img src="https://giphy.com/gifs/startrek-picard-captain-stng1-L3ut1TkDIqduYKM21D" width="100" />
-		<h1>
-			👋 Hi, I’m @Laura-Mary
-		</h1>
-	</div>
-		
+<h1>
+	👋 Hi, I’m @Laura-Mary
+</h1>
+	
 
 - 👀 About me: I am currently studying for a Computer Science degree at the Univesity of South Wales.
 - 🌱 What I am doing: Building my knowledge of C++ and successfully completing my programming assignments. Building a database for a Music shop on Oracle Aoex and developing my knowledge of SQL to create queries and extract useful information from the data. Writing up a research proposal for a tool that will utilise machine learning to suggest personalised clothing suggestions based on weather variables, personal preferences and medical conditions. 
