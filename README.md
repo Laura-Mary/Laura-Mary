@@ -2,7 +2,8 @@
 	👋 Hi, I’m @Laura-Mary
 </h1>
 
-<img src="https://giphy.com/embed/L3ut1TkDIqduYKM21D" alt=Picard>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd2dzNuYzVycGNua3hheTl5bGR5aDFqdnRwNzViMmFydXFydGNheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3ut1TkDIqduYKM21D/giphy.gif" alt=Picard>
+
 
 
 	
@@ -13,6 +14,9 @@
 - 📫 Recent projects: Working with a group to create a digital story about the impact of self-driving cars on our environment. A report about early encryption techniques and how they have evolved into the modern techniques that are used today. 
 - 😄 Pronouns: She/Her
 - ⚡ Skills: Python, HTML and CSS, SQL, C++
+
+
+
 
 <!---
 Laura-Mary/Laura-Mary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
